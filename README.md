@@ -1,3 +1,4 @@
+![logo](https://github.com/kumartushar0605/Kumartushar0605/blob/main/Full%20stack%20developer.jpg)
 <h1 align="center">Hi 👋, I'm Tushar Kumar</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
