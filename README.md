@@ -62,6 +62,15 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/xml/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/XML_logo.svg/512px-XML_logo.svg.png" alt="xml" width="40" height="40"/> 
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+  </a>
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> 
   </a>
@@ -72,53 +81,27 @@
 
 ---
 
-### 🔥 **GitHub Stats:**
-
+### 🏆 **Achievements in Open Source:**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumartushar0605&theme=dark" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumartushar0605&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumartushar0605&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-00A68C?style=flat-square&logo=github&logoColor=white" alt="Open Source Contributor" />
+  <img src="https://img.shields.io/badge/First%20Place%20in%20Hackathon-FFD700?style=flat-square" alt="Hackathon Winner" />
+  <img src="https://img.shields.io/badge/Top%2010%20in%20Hackathon-00C4D8?style=flat-square" alt="Top 10 Hackathon" />
+  <img src="https://img.shields.io/badge/Smart%20India%20Hackathon-00A68C?style=flat-square" alt="Smart India Hackathon" />
 </p>
 
 ---
 
-### ✨ **Cool Animations:**
-
-![Snake animation](https://github.com/kumartushar0605/kumartushar0605/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### 🎯 **Recent Work:**
-
-- Working on Blockchain projects using **Solidity** and **Hardhat**
-- Contributing to **Full Stack** and **Decentralized Applications**
-- Exploring new technologies in **Web 3.0**
-
----
-
+### 🌟 **GitHub Stats:**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kumartushar0605&theme=dark&row=1&column=4" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kumartushar0605&show_icons=true&hide_title=true&theme=radical" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumartushar0605&theme=radical" width="400" />
+</p>
+
+### ✨ **Top Languages:**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumartushar0605&theme=radical&layout=compact" />
 </p>
 
 ---
 
-### 🌟 **Projects:**
-- **FarmRuler**: A farm management tool to help farmers manage their crops and resources efficiently.
-- **Doctor's Dashboard**: A fully functional dashboard to manage patient data and appointments.
-- **Product Display Page**: An attractive product page with animations and smooth transitions.
-- **Subscription Platform**: A UI component for students to connect through one-to-one video calls for doubt resolution.
-
----
-
-### 🎓 **Education:**
-- Currently pursuing a degree at **Siksha 'O' Anusandhan University**, in my **2nd year**.
-
----
-
-### 🚀 **Let’s Collaborate:**
-I’m always looking for new opportunities to learn and collaborate on exciting projects. Feel free to reach out!
-
+<p align="center">Made with ❤️ by Tushar Kumar</p>
