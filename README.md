@@ -6,14 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumartushar0605&label=Profile%20views&color=0e75b6&style=flat" alt="kumartushar0605" /> </p>
 
-<h3 align="center">🏅 Achievements in Open Source:</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-00A68C?style=flat-square&logo=github&logoColor=white" alt="Open Source Contributor" />
-  <img src="https://img.shields.io/badge/First%20Place%20in%20Hackathon-FFD700?style=flat-square" alt="Hackathon Winner" />
-  <img src="https://img.shields.io/badge/Top%2010%20in%20Hackathon-00C4D8?style=flat-square" alt="Top 10 Hackathon" />
-  <img src="https://img.shields.io/badge/Smart%20India%20Hackathon-00A68C?style=flat-square" alt="Smart India Hackathon" />
-</p>
-
 - 🌱 I’m currently learning **Blockchain, Solidity, and Hardhat**
   
 - 💬 Ask me about **React, Java, Solidity, Blockchain, Backend**
@@ -70,13 +62,16 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> 
+  </a>
+  <a href="https://hardhat.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hardhat/hardhat-original.svg" alt="hardhat" width="40" height="40"/> 
+  </a>
+   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
-  <a href="https://www.w3schools.com/xml/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/XML_logo.svg/512px-XML_logo.svg.png" alt="xml" width="40" height="40"/> 
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
   </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
@@ -86,32 +81,53 @@
 
 ---
 
-### 🌟 **GitHub Stats:**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumartushar0605&show_icons=true&hide_title=true&theme=radical" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumartushar0605&theme=radical" width="400" />
-</p>
+### 🔥 **GitHub Stats:**
 
-### ✨ **Top Languages:**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumartushar0605&theme=radical&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumartushar0605&theme=dark" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kumartushar0605&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumartushar0605&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
 
-<p align="center">Made with ❤️ by Tushar Kumar</p>
+### ✨ **Cool Animations:**
 
-<style>
-  @keyframes fadeIn {
-    from {
-      opacity: 0;
-    }
-    to {
-      opacity: 1;
-    }
-  }
+![Snake animation](https://github.com/kumartushar0605/kumartushar0605/blob/output/github-contribution-grid-snake.svg)
 
-  h1, h3, p {
-    animation: fadeIn 2s ease-in;
-  }
-</style>
+---
+
+### 🎯 **Recent Work:**
+
+- Working on Blockchain projects using **Solidity** and **Hardhat**
+- Contributing to **Full Stack** and **Decentralized Applications**
+- Exploring new technologies in **Web 3.0**
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kumartushar0605&theme=dark&row=1&column=4" alt="Trophies" />
+</p>
+
+---
+
+### 🌟 **Projects:**
+- **FarmRuler**: A farm management tool to help farmers manage their crops and resources efficiently.
+- **Doctor's Dashboard**: A fully functional dashboard to manage patient data and appointments.
+- **Product Display Page**: An attractive product page with animations and smooth transitions.
+- **Subscription Platform**: A UI component for students to connect through one-to-one video calls for doubt resolution.
+
+---
+
+### 🎓 **Education:**
+- Currently pursuing a degree at **Siksha 'O' Anusandhan University**, in my **2nd year**.
+
+---
+
+### 🚀 **Let’s Collaborate:**
+I’m always looking for new opportunities to learn and collaborate on exciting projects. Feel free to reach out!
+
