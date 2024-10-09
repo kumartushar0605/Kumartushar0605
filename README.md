@@ -6,6 +6,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumartushar0605&label=Profile%20views&color=0e75b6&style=flat" alt="kumartushar0605" /> </p>
 
+<h3 align="center">🏅 Achievements in Open Source:</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-00A68C?style=flat-square&logo=github&logoColor=white" alt="Open Source Contributor" />
+  <img src="https://img.shields.io/badge/First%20Place%20in%20Hackathon-FFD700?style=flat-square" alt="Hackathon Winner" />
+  <img src="https://img.shields.io/badge/Top%2010%20in%20Hackathon-00C4D8?style=flat-square" alt="Top 10 Hackathon" />
+  <img src="https://img.shields.io/badge/Smart%20India%20Hackathon-00A68C?style=flat-square" alt="Smart India Hackathon" />
+</p>
+
 - 🌱 I’m currently learning **Blockchain, Solidity, and Hardhat**
   
 - 💬 Ask me about **React, Java, Solidity, Blockchain, Backend**
@@ -71,22 +79,9 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
   </a>
-  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> 
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
   </a>
-  <a href="https://hardhat.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hardhat/hardhat-original.svg" alt="hardhat" width="40" height="40"/> 
-  </a>
-</p>
-
----
-
-### 🏆 **Achievements in Open Source:**
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-00A68C?style=flat-square&logo=github&logoColor=white" alt="Open Source Contributor" />
-  <img src="https://img.shields.io/badge/First%20Place%20in%20Hackathon-FFD700?style=flat-square" alt="Hackathon Winner" />
-  <img src="https://img.shields.io/badge/Top%2010%20in%20Hackathon-00C4D8?style=flat-square" alt="Top 10 Hackathon" />
-  <img src="https://img.shields.io/badge/Smart%20India%20Hackathon-00A68C?style=flat-square" alt="Smart India Hackathon" />
 </p>
 
 ---
@@ -105,3 +100,18 @@
 ---
 
 <p align="center">Made with ❤️ by Tushar Kumar</p>
+
+<style>
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  h1, h3, p {
+    animation: fadeIn 2s ease-in;
+  }
+</style>
