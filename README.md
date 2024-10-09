@@ -95,10 +95,6 @@
 
 ---
 
-### ✨ **Cool Animations:**
-
-![Snake animation](https://github.com/kumartushar0605/kumartushar0605/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ### 🎯 **Recent Work:**
