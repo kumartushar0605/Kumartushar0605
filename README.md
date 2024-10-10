@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tushar Kumar</h1>
 <h3 align="center">A passionate Full Stack Developer and Blockchain Enthusiast from India</h3>
 
-<img align="right" alt="coding" width="400px" src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u"/>
+<img align="right" alt="coding" width="400px" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif"/>
 
 
 
