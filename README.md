@@ -4,6 +4,8 @@
 
 <img align="right" alt="coding" width="400px" src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u"/>
 
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumartushar0605&label=Profile%20views&color=0e75b6&style=flat" alt="kumartushar0605" /> </p>
 
 - 🌱 I’m currently learning **Blockchain, Solidity, and Hardhat**
